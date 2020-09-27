@@ -1,4 +1,4 @@
-class Main {
+class CountingValleys {
   public static void main(String[] args) {
     System.out.println(countingValleys(8, "UDDDUDUU"));
   }
