@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Main {
+class SockMerchant {
   public static void main(String[] args) {
     int[] socks = {1,1,3,1,2,1,3,3,3,3};
     System.out.println(sockMerchant(10, socks));
